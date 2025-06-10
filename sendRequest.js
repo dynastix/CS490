@@ -18,14 +18,7 @@ const endpoint = 'https://student-info-api.netlify.app/.netlify/functions/submit
 //payload format, json type:
 
 const payload = {
-    "UCID": "dt393",
-    "first_name": "David",
-    "last_name": "Takahashi",
-    "github_username": "dynastix",
-    "discord_username": "coffeetree0135",
-    "favorite_cartoon": "Scooby Doo",
-    "favorite_language": "C++",
-    "movie_or_game_or_book": "Minecraft"
+
   };
 
 
